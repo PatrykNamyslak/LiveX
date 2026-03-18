@@ -6,6 +6,7 @@
         "psr-4": {
             "LiveX\\": "./",
             "Focal\\": "Focal/"
+        }
     },
     "authors": [
         {
