@@ -1,5 +1,5 @@
 {
-    "name": "probe/livex",
+    "name": "livex/livex",
     "description": "A Full-stack framework for the Focal PHP framework that makes building dynamic UIs simple by leveraging HTMX.",
     "license": "MIT",
     "autoload": {
