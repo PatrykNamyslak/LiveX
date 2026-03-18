@@ -1,0 +1,20 @@
+{
+    "name": "probe/livex",
+    "description": "A Full-stack framework for the Focal PHP framework that makes building dynamic UIs simple by leveraging HTMX.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "LiveX\\": "./",
+            "Focal\\": "Focal/"
+    },
+    "authors": [
+        {
+            "name": "Patryk",
+            "email": "patryk@focalphp.com"
+        }
+    ],
+    "require": {
+        "patryknamyslak/html-element-builder": "^1.0",
+        "probe/support": "^1.1"
+    }
+}
