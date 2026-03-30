@@ -1,6 +1,6 @@
 <?php
 namespace LiveX;
-use LiveX\Traits\Htmx;
+use LiveX\Support\Traits\Htmx;
 use ReflectionClass;
 
 abstract class Component{

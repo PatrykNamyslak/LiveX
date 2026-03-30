@@ -1,1 +1,0 @@
-<div livex-on:click="increment">My Component</div>

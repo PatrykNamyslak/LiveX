@@ -1,12 +1,12 @@
 <?php
 namespace LiveX\Support\Translations;
 
-use LiveX\Translation;
-use LiveX\Enums\HtmxTrigger;
+use LiveX\Support\Translation;
+use LiveX\Support\Enums\HtmxTrigger;
 
 
-abstract class OnClick extends Translation{
-    public static function trigger(): HtmxTrigger{
+class OnClick extends Translation{
+    public function trigger(): HtmxTrigger{
         return HtmxTrigger::Click;
     }
 }

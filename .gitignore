@@ -1,1 +1,5 @@
 /vendor/
+/.env
+/Focal/
+/index.php
+/test/

@@ -18,10 +18,10 @@ class Request{
     }
 
     /**
-     * Get all of the incoming JSON data: 
+     * Get all of the incoming data: 
      * @return array
      */
-    public static function incomingData(): array{
+    public static function incomingData(): array|null{
         return JSON::decode(file_get_contents("php://input"));
     }
 
