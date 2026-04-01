@@ -2,4 +2,5 @@
 /.env
 /Focal/
 /index.php
-/test/
+/test/*
+/tests
