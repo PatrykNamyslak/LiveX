@@ -1,2 +1,2 @@
-<img src="./logo.png" />
+<img src="./logo.jpg" />
 <img src="./banner.png" />
