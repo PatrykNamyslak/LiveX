@@ -1,2 +1,2 @@
-<img src="./logo.jpg" />
+<img src="./livex-logo.jpg" />
 <img src="./banner.png" />
